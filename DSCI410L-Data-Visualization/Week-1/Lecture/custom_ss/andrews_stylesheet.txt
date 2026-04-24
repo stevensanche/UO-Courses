@@ -1,0 +1,11 @@
+lines.linewidth : 3
+lines.markersize : 4
+xtick.labelsize : 12
+ytick.labelsize : 12
+axes.grid: True
+axes.titlelocation: center
+grid.alpha: 1.0
+grid.color: red
+axes.labelsize: 12
+font.family: Comic Sans MS
+axes.facecolor: "#02f733"

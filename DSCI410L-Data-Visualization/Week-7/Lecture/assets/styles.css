@@ -1,0 +1,49 @@
+/* Change the properties of the webpage itself */
+html, body {
+    height: 100%; 
+    background-color: #074050; 
+}
+
+.graph-shadow {
+	box-shadow: 7px 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+/* Change the background of the graph Divs */
+.graph-background {
+    background-color: #074050;
+	margin-right: 4%;
+	margin-top: 2%;
+}	
+
+.dropdown-background {
+	background-color: #074050;
+	margin-right: 100px;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding-right: 50px;
+	border-right-style: solid;
+	border-right-width: medium;
+	border-right-color: white;
+}
+
+.app-background {
+    background-color: #074050;
+}
+
+.first-row-height {
+    height: 50vh;
+}
+
+/* HTML label fonts */
+.label-font {
+    font-family: Helvetica;
+	color: white;
+	font-Weight: bold;
+}
+
+.paragraph-text {
+    font-family: Helvetica;
+	color: white;
+	font-size: 18px;
+}

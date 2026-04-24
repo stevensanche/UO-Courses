@@ -1,0 +1,78 @@
+
+body {
+  background-color: #000000;         
+  color: #f2d4c2;                   
+}
+
+/ found this online which helps prevent strechting 
+.container-fluid {
+  max-width: 1400px;
+}
+
+.header-block {
+  background: rgba(44, 61, 97,0.85);
+  border: 1px;
+  padding: 18px;
+}
+
+.label-font {
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+
+.paragraph-text {
+  margin: 1px;
+}
+
+
+.section-box {
+  background-color: rgba(44, 61, 97,0.85);
+  border: 1px solid rgba(255,255,255,1);
+  border-radius: 10px;
+  padding: 10px 10px;
+}
+
+.dropdown-background .Select-control,
+.dropdown-background .Select-menu-outer {
+  background-color: #306db3;
+  color: #f2d4c2;
+}
+
+.dropdown-background .Select-placeholder,
+.dropdown-background .Select-value-label {
+  color: #f2d4c2 !important;
+}
+
+.dropdown-background .Select-arrow-zone {
+  background-color: #053ca8;
+}
+
+.slider-style {
+  padding: 10px
+}
+
+.rc-slider-mark-text,
+.rc-slider-dot,
+.rc-slider {
+  color: rgba(255,225,225,1);
+}
+
+
+.rc-slider-rail {
+  background-color: rgba(225,255,225,0.1);
+}
+
+.rc-slider-track {
+  background-color: #8210c4;
+}
+
+.rc-slider-handle {
+  border: 1.5px solid rgba(0,0,0,1);
+  background-color: #8210c4;
+}
+
+.switch-style {
+  margin-top: 10px;
+}
+

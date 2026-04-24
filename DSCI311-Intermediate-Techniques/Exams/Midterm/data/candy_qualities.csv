@@ -1,0 +1,766 @@
+name,quality,value
+100 Grand,chocolate,1
+3 Musketeers,chocolate,1
+One dime,chocolate,0
+One quarter,chocolate,0
+Air Heads,chocolate,0
+Almond Joy,chocolate,1
+Baby Ruth,chocolate,1
+Boston Baked Beans,chocolate,0
+Candy Corn,chocolate,0
+Caramel Apple Pops,chocolate,0
+Charleston Chew,chocolate,1
+Chewey Lemonhead Fruit Mix,chocolate,0
+Chiclets,chocolate,0
+Dots,chocolate,0
+Dum Dums,chocolate,0
+Fruit Chews,chocolate,0
+Fun Dip,chocolate,0
+Gobstopper,chocolate,0
+Haribo Gold Bears,chocolate,0
+Haribo Happy Cola,chocolate,0
+Haribo Sour Bears,chocolate,0
+Haribo Twin Snakes,chocolate,0
+HersheyÕs Kisses,chocolate,1
+HersheyÕs Krackel,chocolate,1
+HersheyÕs Milk Chocolate,chocolate,1
+HersheyÕs Special Dark,chocolate,1
+Jawbusters,chocolate,0
+Junior Mints,chocolate,1
+Kit Kat,chocolate,1
+Laffy Taffy,chocolate,0
+Lemonhead,chocolate,0
+Lifesavers big ring gummies,chocolate,0
+Peanut butter M&MÕs,chocolate,1
+M&MÕs,chocolate,1
+Mike & Ike,chocolate,0
+Milk Duds,chocolate,1
+Milky Way,chocolate,1
+Milky Way Midnight,chocolate,1
+Milky Way Simply Caramel,chocolate,1
+Mounds,chocolate,1
+Mr Good Bar,chocolate,1
+Nerds,chocolate,0
+Nestle Butterfinger,chocolate,1
+Nestle Crunch,chocolate,1
+Nik L Nip,chocolate,0
+Now & Later,chocolate,0
+Payday,chocolate,0
+Peanut M&Ms,chocolate,1
+Pixie Sticks,chocolate,0
+Pop Rocks,chocolate,0
+Red vines,chocolate,0
+ReeseÕs Miniatures,chocolate,1
+ReeseÕs Peanut Butter cup,chocolate,1
+ReeseÕs pieces,chocolate,1
+ReeseÕs stuffed with pieces,chocolate,1
+Ring pop,chocolate,0
+Rolo,chocolate,1
+Root Beer Barrels,chocolate,0
+Runts,chocolate,0
+Sixlets,chocolate,1
+Skittles original,chocolate,0
+Skittles wildberry,chocolate,0
+Nestle Smarties,chocolate,1
+Smarties candy,chocolate,0
+Snickers,chocolate,1
+Snickers Crisper,chocolate,1
+Sour Patch Kids,chocolate,0
+Sour Patch Tricksters,chocolate,0
+Starburst,chocolate,0
+Strawberry bon bons,chocolate,0
+Sugar Babies,chocolate,0
+Sugar Daddy,chocolate,0
+Super Bubble,chocolate,0
+Swedish Fish,chocolate,0
+Tootsie Pop,chocolate,1
+Tootsie Roll Juniors,chocolate,1
+Tootsie Roll Midgies,chocolate,1
+Tootsie Roll Snack Bars,chocolate,1
+Trolli Sour Bites,chocolate,0
+Twix,chocolate,1
+Twizzlers,chocolate,0
+Warheads,chocolate,0
+WelchÕs Fruit Snacks,chocolate,0
+WertherÕs Original Caramel,chocolate,0
+Whoppers,chocolate,1
+100 Grand,fruity,0
+3 Musketeers,fruity,0
+One dime,fruity,0
+One quarter,fruity,0
+Air Heads,fruity,1
+Almond Joy,fruity,0
+Baby Ruth,fruity,0
+Boston Baked Beans,fruity,0
+Candy Corn,fruity,0
+Caramel Apple Pops,fruity,1
+Charleston Chew,fruity,0
+Chewey Lemonhead Fruit Mix,fruity,1
+Chiclets,fruity,1
+Dots,fruity,1
+Dum Dums,fruity,1
+Fruit Chews,fruity,1
+Fun Dip,fruity,1
+Gobstopper,fruity,1
+Haribo Gold Bears,fruity,1
+Haribo Happy Cola,fruity,0
+Haribo Sour Bears,fruity,1
+Haribo Twin Snakes,fruity,1
+HersheyÕs Kisses,fruity,0
+HersheyÕs Krackel,fruity,0
+HersheyÕs Milk Chocolate,fruity,0
+HersheyÕs Special Dark,fruity,0
+Jawbusters,fruity,1
+Junior Mints,fruity,0
+Kit Kat,fruity,0
+Laffy Taffy,fruity,1
+Lemonhead,fruity,1
+Lifesavers big ring gummies,fruity,1
+Peanut butter M&MÕs,fruity,0
+M&MÕs,fruity,0
+Mike & Ike,fruity,1
+Milk Duds,fruity,0
+Milky Way,fruity,0
+Milky Way Midnight,fruity,0
+Milky Way Simply Caramel,fruity,0
+Mounds,fruity,0
+Mr Good Bar,fruity,0
+Nerds,fruity,1
+Nestle Butterfinger,fruity,0
+Nestle Crunch,fruity,0
+Nik L Nip,fruity,1
+Now & Later,fruity,1
+Payday,fruity,0
+Peanut M&Ms,fruity,0
+Pixie Sticks,fruity,0
+Pop Rocks,fruity,1
+Red vines,fruity,1
+ReeseÕs Miniatures,fruity,0
+ReeseÕs Peanut Butter cup,fruity,0
+ReeseÕs pieces,fruity,0
+ReeseÕs stuffed with pieces,fruity,0
+Ring pop,fruity,1
+Rolo,fruity,0
+Root Beer Barrels,fruity,0
+Runts,fruity,1
+Sixlets,fruity,0
+Skittles original,fruity,1
+Skittles wildberry,fruity,1
+Nestle Smarties,fruity,0
+Smarties candy,fruity,1
+Snickers,fruity,0
+Snickers Crisper,fruity,0
+Sour Patch Kids,fruity,1
+Sour Patch Tricksters,fruity,1
+Starburst,fruity,1
+Strawberry bon bons,fruity,1
+Sugar Babies,fruity,0
+Sugar Daddy,fruity,0
+Super Bubble,fruity,1
+Swedish Fish,fruity,1
+Tootsie Pop,fruity,1
+Tootsie Roll Juniors,fruity,0
+Tootsie Roll Midgies,fruity,0
+Tootsie Roll Snack Bars,fruity,0
+Trolli Sour Bites,fruity,1
+Twix,fruity,0
+Twizzlers,fruity,1
+Warheads,fruity,1
+WelchÕs Fruit Snacks,fruity,1
+WertherÕs Original Caramel,fruity,0
+Whoppers,fruity,0
+100 Grand,caramel,1
+3 Musketeers,caramel,0
+One dime,caramel,0
+One quarter,caramel,0
+Air Heads,caramel,0
+Almond Joy,caramel,0
+Baby Ruth,caramel,1
+Boston Baked Beans,caramel,0
+Candy Corn,caramel,0
+Caramel Apple Pops,caramel,1
+Charleston Chew,caramel,0
+Chewey Lemonhead Fruit Mix,caramel,0
+Chiclets,caramel,0
+Dots,caramel,0
+Dum Dums,caramel,0
+Fruit Chews,caramel,0
+Fun Dip,caramel,0
+Gobstopper,caramel,0
+Haribo Gold Bears,caramel,0
+Haribo Happy Cola,caramel,0
+Haribo Sour Bears,caramel,0
+Haribo Twin Snakes,caramel,0
+HersheyÕs Kisses,caramel,0
+HersheyÕs Krackel,caramel,0
+HersheyÕs Milk Chocolate,caramel,0
+HersheyÕs Special Dark,caramel,0
+Jawbusters,caramel,0
+Junior Mints,caramel,0
+Kit Kat,caramel,0
+Laffy Taffy,caramel,0
+Lemonhead,caramel,0
+Lifesavers big ring gummies,caramel,0
+Peanut butter M&MÕs,caramel,0
+M&MÕs,caramel,0
+Mike & Ike,caramel,0
+Milk Duds,caramel,1
+Milky Way,caramel,1
+Milky Way Midnight,caramel,1
+Milky Way Simply Caramel,caramel,1
+Mounds,caramel,0
+Mr Good Bar,caramel,0
+Nerds,caramel,0
+Nestle Butterfinger,caramel,0
+Nestle Crunch,caramel,0
+Nik L Nip,caramel,0
+Now & Later,caramel,0
+Payday,caramel,0
+Peanut M&Ms,caramel,0
+Pixie Sticks,caramel,0
+Pop Rocks,caramel,0
+Red vines,caramel,0
+ReeseÕs Miniatures,caramel,0
+ReeseÕs Peanut Butter cup,caramel,0
+ReeseÕs pieces,caramel,0
+ReeseÕs stuffed with pieces,caramel,0
+Ring pop,caramel,0
+Rolo,caramel,1
+Root Beer Barrels,caramel,0
+Runts,caramel,0
+Sixlets,caramel,0
+Skittles original,caramel,0
+Skittles wildberry,caramel,0
+Nestle Smarties,caramel,0
+Smarties candy,caramel,0
+Snickers,caramel,1
+Snickers Crisper,caramel,1
+Sour Patch Kids,caramel,0
+Sour Patch Tricksters,caramel,0
+Starburst,caramel,0
+Strawberry bon bons,caramel,0
+Sugar Babies,caramel,1
+Sugar Daddy,caramel,1
+Super Bubble,caramel,0
+Swedish Fish,caramel,0
+Tootsie Pop,caramel,0
+Tootsie Roll Juniors,caramel,0
+Tootsie Roll Midgies,caramel,0
+Tootsie Roll Snack Bars,caramel,0
+Trolli Sour Bites,caramel,0
+Twix,caramel,1
+Twizzlers,caramel,0
+Warheads,caramel,0
+WelchÕs Fruit Snacks,caramel,0
+WertherÕs Original Caramel,caramel,1
+Whoppers,caramel,0
+100 Grand,peanutyalmondy,0
+3 Musketeers,peanutyalmondy,0
+One dime,peanutyalmondy,0
+One quarter,peanutyalmondy,0
+Air Heads,peanutyalmondy,0
+Almond Joy,peanutyalmondy,1
+Baby Ruth,peanutyalmondy,1
+Boston Baked Beans,peanutyalmondy,1
+Candy Corn,peanutyalmondy,0
+Caramel Apple Pops,peanutyalmondy,0
+Charleston Chew,peanutyalmondy,0
+Chewey Lemonhead Fruit Mix,peanutyalmondy,0
+Chiclets,peanutyalmondy,0
+Dots,peanutyalmondy,0
+Dum Dums,peanutyalmondy,0
+Fruit Chews,peanutyalmondy,0
+Fun Dip,peanutyalmondy,0
+Gobstopper,peanutyalmondy,0
+Haribo Gold Bears,peanutyalmondy,0
+Haribo Happy Cola,peanutyalmondy,0
+Haribo Sour Bears,peanutyalmondy,0
+Haribo Twin Snakes,peanutyalmondy,0
+HersheyÕs Kisses,peanutyalmondy,0
+HersheyÕs Krackel,peanutyalmondy,0
+HersheyÕs Milk Chocolate,peanutyalmondy,0
+HersheyÕs Special Dark,peanutyalmondy,0
+Jawbusters,peanutyalmondy,0
+Junior Mints,peanutyalmondy,0
+Kit Kat,peanutyalmondy,0
+Laffy Taffy,peanutyalmondy,0
+Lemonhead,peanutyalmondy,0
+Lifesavers big ring gummies,peanutyalmondy,0
+Peanut butter M&MÕs,peanutyalmondy,1
+M&MÕs,peanutyalmondy,0
+Mike & Ike,peanutyalmondy,0
+Milk Duds,peanutyalmondy,0
+Milky Way,peanutyalmondy,0
+Milky Way Midnight,peanutyalmondy,0
+Milky Way Simply Caramel,peanutyalmondy,0
+Mounds,peanutyalmondy,0
+Mr Good Bar,peanutyalmondy,1
+Nerds,peanutyalmondy,0
+Nestle Butterfinger,peanutyalmondy,1
+Nestle Crunch,peanutyalmondy,0
+Nik L Nip,peanutyalmondy,0
+Now & Later,peanutyalmondy,0
+Payday,peanutyalmondy,1
+Peanut M&Ms,peanutyalmondy,1
+Pixie Sticks,peanutyalmondy,0
+Pop Rocks,peanutyalmondy,0
+Red vines,peanutyalmondy,0
+ReeseÕs Miniatures,peanutyalmondy,1
+ReeseÕs Peanut Butter cup,peanutyalmondy,1
+ReeseÕs pieces,peanutyalmondy,1
+ReeseÕs stuffed with pieces,peanutyalmondy,1
+Ring pop,peanutyalmondy,0
+Rolo,peanutyalmondy,0
+Root Beer Barrels,peanutyalmondy,0
+Runts,peanutyalmondy,0
+Sixlets,peanutyalmondy,0
+Skittles original,peanutyalmondy,0
+Skittles wildberry,peanutyalmondy,0
+Nestle Smarties,peanutyalmondy,0
+Smarties candy,peanutyalmondy,0
+Snickers,peanutyalmondy,1
+Snickers Crisper,peanutyalmondy,1
+Sour Patch Kids,peanutyalmondy,0
+Sour Patch Tricksters,peanutyalmondy,0
+Starburst,peanutyalmondy,0
+Strawberry bon bons,peanutyalmondy,0
+Sugar Babies,peanutyalmondy,0
+Sugar Daddy,peanutyalmondy,0
+Super Bubble,peanutyalmondy,0
+Swedish Fish,peanutyalmondy,0
+Tootsie Pop,peanutyalmondy,0
+Tootsie Roll Juniors,peanutyalmondy,0
+Tootsie Roll Midgies,peanutyalmondy,0
+Tootsie Roll Snack Bars,peanutyalmondy,0
+Trolli Sour Bites,peanutyalmondy,0
+Twix,peanutyalmondy,0
+Twizzlers,peanutyalmondy,0
+Warheads,peanutyalmondy,0
+WelchÕs Fruit Snacks,peanutyalmondy,0
+WertherÕs Original Caramel,peanutyalmondy,0
+Whoppers,peanutyalmondy,0
+100 Grand,nougat,0
+3 Musketeers,nougat,1
+One dime,nougat,0
+One quarter,nougat,0
+Air Heads,nougat,0
+Almond Joy,nougat,0
+Baby Ruth,nougat,1
+Boston Baked Beans,nougat,0
+Candy Corn,nougat,0
+Caramel Apple Pops,nougat,0
+Charleston Chew,nougat,1
+Chewey Lemonhead Fruit Mix,nougat,0
+Chiclets,nougat,0
+Dots,nougat,0
+Dum Dums,nougat,0
+Fruit Chews,nougat,0
+Fun Dip,nougat,0
+Gobstopper,nougat,0
+Haribo Gold Bears,nougat,0
+Haribo Happy Cola,nougat,0
+Haribo Sour Bears,nougat,0
+Haribo Twin Snakes,nougat,0
+HersheyÕs Kisses,nougat,0
+HersheyÕs Krackel,nougat,0
+HersheyÕs Milk Chocolate,nougat,0
+HersheyÕs Special Dark,nougat,0
+Jawbusters,nougat,0
+Junior Mints,nougat,0
+Kit Kat,nougat,0
+Laffy Taffy,nougat,0
+Lemonhead,nougat,0
+Lifesavers big ring gummies,nougat,0
+Peanut butter M&MÕs,nougat,0
+M&MÕs,nougat,0
+Mike & Ike,nougat,0
+Milk Duds,nougat,0
+Milky Way,nougat,1
+Milky Way Midnight,nougat,1
+Milky Way Simply Caramel,nougat,0
+Mounds,nougat,0
+Mr Good Bar,nougat,0
+Nerds,nougat,0
+Nestle Butterfinger,nougat,0
+Nestle Crunch,nougat,0
+Nik L Nip,nougat,0
+Now & Later,nougat,0
+Payday,nougat,1
+Peanut M&Ms,nougat,0
+Pixie Sticks,nougat,0
+Pop Rocks,nougat,0
+Red vines,nougat,0
+ReeseÕs Miniatures,nougat,0
+ReeseÕs Peanut Butter cup,nougat,0
+ReeseÕs pieces,nougat,0
+ReeseÕs stuffed with pieces,nougat,0
+Ring pop,nougat,0
+Rolo,nougat,0
+Root Beer Barrels,nougat,0
+Runts,nougat,0
+Sixlets,nougat,0
+Skittles original,nougat,0
+Skittles wildberry,nougat,0
+Nestle Smarties,nougat,0
+Smarties candy,nougat,0
+Snickers,nougat,1
+Snickers Crisper,nougat,0
+Sour Patch Kids,nougat,0
+Sour Patch Tricksters,nougat,0
+Starburst,nougat,0
+Strawberry bon bons,nougat,0
+Sugar Babies,nougat,0
+Sugar Daddy,nougat,0
+Super Bubble,nougat,0
+Swedish Fish,nougat,0
+Tootsie Pop,nougat,0
+Tootsie Roll Juniors,nougat,0
+Tootsie Roll Midgies,nougat,0
+Tootsie Roll Snack Bars,nougat,0
+Trolli Sour Bites,nougat,0
+Twix,nougat,0
+Twizzlers,nougat,0
+Warheads,nougat,0
+WelchÕs Fruit Snacks,nougat,0
+WertherÕs Original Caramel,nougat,0
+Whoppers,nougat,0
+100 Grand,crispedricewafer,1
+3 Musketeers,crispedricewafer,0
+One dime,crispedricewafer,0
+One quarter,crispedricewafer,0
+Air Heads,crispedricewafer,0
+Almond Joy,crispedricewafer,0
+Baby Ruth,crispedricewafer,0
+Boston Baked Beans,crispedricewafer,0
+Candy Corn,crispedricewafer,0
+Caramel Apple Pops,crispedricewafer,0
+Charleston Chew,crispedricewafer,0
+Chewey Lemonhead Fruit Mix,crispedricewafer,0
+Chiclets,crispedricewafer,0
+Dots,crispedricewafer,0
+Dum Dums,crispedricewafer,0
+Fruit Chews,crispedricewafer,0
+Fun Dip,crispedricewafer,0
+Gobstopper,crispedricewafer,0
+Haribo Gold Bears,crispedricewafer,0
+Haribo Happy Cola,crispedricewafer,0
+Haribo Sour Bears,crispedricewafer,0
+Haribo Twin Snakes,crispedricewafer,0
+HersheyÕs Kisses,crispedricewafer,0
+HersheyÕs Krackel,crispedricewafer,1
+HersheyÕs Milk Chocolate,crispedricewafer,0
+HersheyÕs Special Dark,crispedricewafer,0
+Jawbusters,crispedricewafer,0
+Junior Mints,crispedricewafer,0
+Kit Kat,crispedricewafer,1
+Laffy Taffy,crispedricewafer,0
+Lemonhead,crispedricewafer,0
+Lifesavers big ring gummies,crispedricewafer,0
+Peanut butter M&MÕs,crispedricewafer,0
+M&MÕs,crispedricewafer,0
+Mike & Ike,crispedricewafer,0
+Milk Duds,crispedricewafer,0
+Milky Way,crispedricewafer,0
+Milky Way Midnight,crispedricewafer,0
+Milky Way Simply Caramel,crispedricewafer,0
+Mounds,crispedricewafer,0
+Mr Good Bar,crispedricewafer,0
+Nerds,crispedricewafer,0
+Nestle Butterfinger,crispedricewafer,0
+Nestle Crunch,crispedricewafer,1
+Nik L Nip,crispedricewafer,0
+Now & Later,crispedricewafer,0
+Payday,crispedricewafer,0
+Peanut M&Ms,crispedricewafer,0
+Pixie Sticks,crispedricewafer,0
+Pop Rocks,crispedricewafer,0
+Red vines,crispedricewafer,0
+ReeseÕs Miniatures,crispedricewafer,0
+ReeseÕs Peanut Butter cup,crispedricewafer,0
+ReeseÕs pieces,crispedricewafer,0
+ReeseÕs stuffed with pieces,crispedricewafer,0
+Ring pop,crispedricewafer,0
+Rolo,crispedricewafer,0
+Root Beer Barrels,crispedricewafer,0
+Runts,crispedricewafer,0
+Sixlets,crispedricewafer,0
+Skittles original,crispedricewafer,0
+Skittles wildberry,crispedricewafer,0
+Nestle Smarties,crispedricewafer,0
+Smarties candy,crispedricewafer,0
+Snickers,crispedricewafer,0
+Snickers Crisper,crispedricewafer,1
+Sour Patch Kids,crispedricewafer,0
+Sour Patch Tricksters,crispedricewafer,0
+Starburst,crispedricewafer,0
+Strawberry bon bons,crispedricewafer,0
+Sugar Babies,crispedricewafer,0
+Sugar Daddy,crispedricewafer,0
+Super Bubble,crispedricewafer,0
+Swedish Fish,crispedricewafer,0
+Tootsie Pop,crispedricewafer,0
+Tootsie Roll Juniors,crispedricewafer,0
+Tootsie Roll Midgies,crispedricewafer,0
+Tootsie Roll Snack Bars,crispedricewafer,0
+Trolli Sour Bites,crispedricewafer,0
+Twix,crispedricewafer,1
+Twizzlers,crispedricewafer,0
+Warheads,crispedricewafer,0
+WelchÕs Fruit Snacks,crispedricewafer,0
+WertherÕs Original Caramel,crispedricewafer,0
+Whoppers,crispedricewafer,1
+100 Grand,hard,0
+3 Musketeers,hard,0
+One dime,hard,0
+One quarter,hard,0
+Air Heads,hard,0
+Almond Joy,hard,0
+Baby Ruth,hard,0
+Boston Baked Beans,hard,0
+Candy Corn,hard,0
+Caramel Apple Pops,hard,0
+Charleston Chew,hard,0
+Chewey Lemonhead Fruit Mix,hard,0
+Chiclets,hard,0
+Dots,hard,0
+Dum Dums,hard,1
+Fruit Chews,hard,0
+Fun Dip,hard,1
+Gobstopper,hard,1
+Haribo Gold Bears,hard,0
+Haribo Happy Cola,hard,0
+Haribo Sour Bears,hard,0
+Haribo Twin Snakes,hard,0
+HersheyÕs Kisses,hard,0
+HersheyÕs Krackel,hard,0
+HersheyÕs Milk Chocolate,hard,0
+HersheyÕs Special Dark,hard,0
+Jawbusters,hard,1
+Junior Mints,hard,0
+Kit Kat,hard,0
+Laffy Taffy,hard,0
+Lemonhead,hard,1
+Lifesavers big ring gummies,hard,0
+Peanut butter M&MÕs,hard,0
+M&MÕs,hard,0
+Mike & Ike,hard,0
+Milk Duds,hard,0
+Milky Way,hard,0
+Milky Way Midnight,hard,0
+Milky Way Simply Caramel,hard,0
+Mounds,hard,0
+Mr Good Bar,hard,0
+Nerds,hard,1
+Nestle Butterfinger,hard,0
+Nestle Crunch,hard,0
+Nik L Nip,hard,0
+Now & Later,hard,0
+Payday,hard,0
+Peanut M&Ms,hard,0
+Pixie Sticks,hard,0
+Pop Rocks,hard,1
+Red vines,hard,0
+ReeseÕs Miniatures,hard,0
+ReeseÕs Peanut Butter cup,hard,0
+ReeseÕs pieces,hard,0
+ReeseÕs stuffed with pieces,hard,0
+Ring pop,hard,1
+Rolo,hard,0
+Root Beer Barrels,hard,1
+Runts,hard,1
+Sixlets,hard,0
+Skittles original,hard,0
+Skittles wildberry,hard,0
+Nestle Smarties,hard,0
+Smarties candy,hard,1
+Snickers,hard,0
+Snickers Crisper,hard,0
+Sour Patch Kids,hard,0
+Sour Patch Tricksters,hard,0
+Starburst,hard,0
+Strawberry bon bons,hard,1
+Sugar Babies,hard,0
+Sugar Daddy,hard,0
+Super Bubble,hard,0
+Swedish Fish,hard,0
+Tootsie Pop,hard,1
+Tootsie Roll Juniors,hard,0
+Tootsie Roll Midgies,hard,0
+Tootsie Roll Snack Bars,hard,0
+Trolli Sour Bites,hard,0
+Twix,hard,0
+Twizzlers,hard,0
+Warheads,hard,1
+WelchÕs Fruit Snacks,hard,0
+WertherÕs Original Caramel,hard,1
+Whoppers,hard,0
+100 Grand,bar,1
+3 Musketeers,bar,1
+One dime,bar,0
+One quarter,bar,0
+Air Heads,bar,0
+Almond Joy,bar,1
+Baby Ruth,bar,1
+Boston Baked Beans,bar,0
+Candy Corn,bar,0
+Caramel Apple Pops,bar,0
+Charleston Chew,bar,1
+Chewey Lemonhead Fruit Mix,bar,0
+Chiclets,bar,0
+Dots,bar,0
+Dum Dums,bar,0
+Fruit Chews,bar,0
+Fun Dip,bar,0
+Gobstopper,bar,0
+Haribo Gold Bears,bar,0
+Haribo Happy Cola,bar,0
+Haribo Sour Bears,bar,0
+Haribo Twin Snakes,bar,0
+HersheyÕs Kisses,bar,0
+HersheyÕs Krackel,bar,1
+HersheyÕs Milk Chocolate,bar,1
+HersheyÕs Special Dark,bar,1
+Jawbusters,bar,0
+Junior Mints,bar,0
+Kit Kat,bar,1
+Laffy Taffy,bar,0
+Lemonhead,bar,0
+Lifesavers big ring gummies,bar,0
+Peanut butter M&MÕs,bar,0
+M&MÕs,bar,0
+Mike & Ike,bar,0
+Milk Duds,bar,0
+Milky Way,bar,1
+Milky Way Midnight,bar,1
+Milky Way Simply Caramel,bar,1
+Mounds,bar,1
+Mr Good Bar,bar,1
+Nerds,bar,0
+Nestle Butterfinger,bar,1
+Nestle Crunch,bar,1
+Nik L Nip,bar,0
+Now & Later,bar,0
+Payday,bar,1
+Peanut M&Ms,bar,0
+Pixie Sticks,bar,0
+Pop Rocks,bar,0
+Red vines,bar,0
+ReeseÕs Miniatures,bar,0
+ReeseÕs Peanut Butter cup,bar,0
+ReeseÕs pieces,bar,0
+ReeseÕs stuffed with pieces,bar,0
+Ring pop,bar,0
+Rolo,bar,0
+Root Beer Barrels,bar,0
+Runts,bar,0
+Sixlets,bar,0
+Skittles original,bar,0
+Skittles wildberry,bar,0
+Nestle Smarties,bar,0
+Smarties candy,bar,0
+Snickers,bar,1
+Snickers Crisper,bar,1
+Sour Patch Kids,bar,0
+Sour Patch Tricksters,bar,0
+Starburst,bar,0
+Strawberry bon bons,bar,0
+Sugar Babies,bar,0
+Sugar Daddy,bar,0
+Super Bubble,bar,0
+Swedish Fish,bar,0
+Tootsie Pop,bar,0
+Tootsie Roll Juniors,bar,0
+Tootsie Roll Midgies,bar,0
+Tootsie Roll Snack Bars,bar,1
+Trolli Sour Bites,bar,0
+Twix,bar,1
+Twizzlers,bar,0
+Warheads,bar,0
+WelchÕs Fruit Snacks,bar,0
+WertherÕs Original Caramel,bar,0
+Whoppers,bar,0
+100 Grand,pluribus,0
+3 Musketeers,pluribus,0
+One dime,pluribus,0
+One quarter,pluribus,0
+Air Heads,pluribus,0
+Almond Joy,pluribus,0
+Baby Ruth,pluribus,0
+Boston Baked Beans,pluribus,1
+Candy Corn,pluribus,1
+Caramel Apple Pops,pluribus,0
+Charleston Chew,pluribus,0
+Chewey Lemonhead Fruit Mix,pluribus,1
+Chiclets,pluribus,1
+Dots,pluribus,1
+Dum Dums,pluribus,0
+Fruit Chews,pluribus,1
+Fun Dip,pluribus,0
+Gobstopper,pluribus,1
+Haribo Gold Bears,pluribus,1
+Haribo Happy Cola,pluribus,1
+Haribo Sour Bears,pluribus,1
+Haribo Twin Snakes,pluribus,1
+HersheyÕs Kisses,pluribus,1
+HersheyÕs Krackel,pluribus,0
+HersheyÕs Milk Chocolate,pluribus,0
+HersheyÕs Special Dark,pluribus,0
+Jawbusters,pluribus,1
+Junior Mints,pluribus,1
+Kit Kat,pluribus,0
+Laffy Taffy,pluribus,0
+Lemonhead,pluribus,0
+Lifesavers big ring gummies,pluribus,0
+Peanut butter M&MÕs,pluribus,1
+M&MÕs,pluribus,1
+Mike & Ike,pluribus,1
+Milk Duds,pluribus,1
+Milky Way,pluribus,0
+Milky Way Midnight,pluribus,0
+Milky Way Simply Caramel,pluribus,0
+Mounds,pluribus,0
+Mr Good Bar,pluribus,0
+Nerds,pluribus,1
+Nestle Butterfinger,pluribus,0
+Nestle Crunch,pluribus,0
+Nik L Nip,pluribus,1
+Now & Later,pluribus,1
+Payday,pluribus,0
+Peanut M&Ms,pluribus,1
+Pixie Sticks,pluribus,1
+Pop Rocks,pluribus,1
+Red vines,pluribus,1
+ReeseÕs Miniatures,pluribus,0
+ReeseÕs Peanut Butter cup,pluribus,0
+ReeseÕs pieces,pluribus,1
+ReeseÕs stuffed with pieces,pluribus,0
+Ring pop,pluribus,0
+Rolo,pluribus,1
+Root Beer Barrels,pluribus,1
+Runts,pluribus,1
+Sixlets,pluribus,1
+Skittles original,pluribus,1
+Skittles wildberry,pluribus,1
+Nestle Smarties,pluribus,1
+Smarties candy,pluribus,1
+Snickers,pluribus,0
+Snickers Crisper,pluribus,0
+Sour Patch Kids,pluribus,1
+Sour Patch Tricksters,pluribus,1
+Starburst,pluribus,1
+Strawberry bon bons,pluribus,1
+Sugar Babies,pluribus,1
+Sugar Daddy,pluribus,0
+Super Bubble,pluribus,0
+Swedish Fish,pluribus,1
+Tootsie Pop,pluribus,0
+Tootsie Roll Juniors,pluribus,0
+Tootsie Roll Midgies,pluribus,1
+Tootsie Roll Snack Bars,pluribus,0
+Trolli Sour Bites,pluribus,1
+Twix,pluribus,0
+Twizzlers,pluribus,0
+Warheads,pluribus,0
+WelchÕs Fruit Snacks,pluribus,1
+WertherÕs Original Caramel,pluribus,0
+Whoppers,pluribus,1

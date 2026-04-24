@@ -1,0 +1,36 @@
+figure.facecolor: white
+
+axes.edgecolor: d0d0d0
+axes.linewidth: 1.2
+
+axes.grid: True
+
+axes.labelsize: 15
+axes.titlesize: 20
+
+axes.axisbelow: True
+axes.facecolor: black
+
+
+
+grid.color: grey
+grid.linestyle: --
+grid.linewidth: 0.8
+grid.alpha: 0.5
+
+lines.linewidth: 2.0
+lines.marker: o
+lines.markersize: 3
+lines.markerfacecolor: black
+
+scatter.marker: o
+scatter.edgecolors: none
+
+figure.subplot.hspace: 0.5
+
+axes.prop_cycle: cycler('color', ['green'])
+
+font.family: Times New Roman
+
+xtick.labelsize: 11
+ytick.labelsize: 11

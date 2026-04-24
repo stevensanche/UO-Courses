@@ -1,0 +1,14 @@
+figure.facecolor: white
+axes.edgecolor: d0d0d0
+axes.linewidth: 1.2
+axes.grid: True
+axes.labelsize: 11
+axes.titlesize: 13
+axes.axisbelow: True
+grid.color: 8B0000
+grid.linestyle: --
+grid.linewidth: 0.8
+grid.alpha: 0.25
+lines.linewidth: 2.0
+scatter.marker: o
+scatter.edgecolors: none
